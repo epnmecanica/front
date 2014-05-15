@@ -1,0 +1,71 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9/04/2014, 01:24:19 AM
+    Author     : root
+*/
+
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: smaller;
+    padding: 50px;
+    color: white;
+    background-color: #333;
+}
+h1 {
+    text-align: left;
+    letter-spacing: 6px;
+    font-size: 2.4em;
+    color: black;
+    font-weight: normal;
+    width: 450px;
+}
+
+
+table {
+    width: 580px;
+    padding: 10px;
+    background-color: #00BFFF;
+    border-radius: 20px;
+    margin: auto;
+}
+
+th {
+    text-align: left;
+    border-bottom: 1px solid;
+}
+
+td{
+    padding: 10px;
+}
+
+input{
+    background:#6E6E6E;
+    border-radius: 2px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    color: white;
+}
+textarea{
+    background:#6E6E6E;
+    border-radius: 2px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    color: white;
+}
+select{
+    background:#6E6E6E;
+    border-radius: 2px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    color: white;
+}
